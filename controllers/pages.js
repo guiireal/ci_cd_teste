@@ -15,5 +15,4 @@ const calc = (req, res) => {
   }
 }
 
-
 module.exports = { home, page1, page2, calc }
